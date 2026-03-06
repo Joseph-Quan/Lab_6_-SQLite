@@ -10,9 +10,9 @@
 1. Tạo thư mục tên `screenshots` ở thư mục gốc của dự án.
 2. Chụp ảnh màn hình điện thoại và lưu vào đó với tên `main_screen.png`.
 
-| Giao diện chính | Danh sách học sinh |
-| :---: | :---: |
-| ![Main Screen](screenshots/main_screen.png) | ![List Screen](screenshots/list_screen.png) |
+|     Giao diện chính     |    Danh sách học sinh     |
+|:-----------------------:|:-------------------------:|
+| ![Main Screen](img.png) | ![List Screen](img_1.png) |
 
 ---
 
